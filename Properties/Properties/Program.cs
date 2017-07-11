@@ -9,8 +9,7 @@ namespace Properties
 	{
 		static void Main(string[] args)
 		{
-			var person = new Person();
-			person.Birthdate = new System.DateTime(1982, 1, 1);
+			var person = new Person(new System.DateTime(1982, 1, 1));
 			System.Console.WriteLine(person.Age);
 		}
 	}
