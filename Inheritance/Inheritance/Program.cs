@@ -6,25 +6,14 @@ using System.Threading.Tasks;
 
 namespace Inheritance
 {
-	public class PresentationObject
-	{
-		public int Width { get; set; }
-		public int Height { get; set; }
-
-		public void Copy()
-		{
-			Console.WriteLine("Object copied to clipboard.");
-		}
-
-		public void Duplicate()
-		{
-			Console.WriteLine("Object copied to clipboard.");
-		}
-	}
 	class Program
 	{
 		static void Main(string[] args)
 		{
+			var text = new Text();
+			text.Width = 100;
+			text.Copy();
+			Console.ReadLine();
 		}
 	}
 }
