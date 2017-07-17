@@ -4,9 +4,15 @@ namespace ConstructorsPtTwo
 {
 	public class Vehicle
 	{
-		public Vehicle()
+		private readonly string _registrationNumber;
+		//public Vehicle()
+		//{
+		//	Console.WriteLine("Vehicle is being initialized.");
+		//}
+		public Vehicle(string registrationNumber)
 		{
-			Console.WriteLine("Vehicle is being initialized.");
+			_registrationNumber = registrationNumber;
+			Console.WriteLine("Vehicle is being initialized. {0}", registrationNumber);
 		}
 	}
 }
