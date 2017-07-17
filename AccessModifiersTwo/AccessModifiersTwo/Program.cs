@@ -11,7 +11,8 @@ namespace AccessModifiersTwo
 		static void Main(string[] args)
 		{
 			var customer = new Customer();
-			Amazon.RateCalculator calculator = new RateCalculator();
+			// Cannot access b/c set as internal
+			//Amazon.RateCalculator calculator = new RateCalculator();
 		}
 	}
 }
