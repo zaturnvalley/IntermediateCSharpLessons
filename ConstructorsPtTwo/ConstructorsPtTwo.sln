@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructorsPtTwo", "ConstructorsPtTwo\ConstructorsPtTwo.csproj", "{43C6E4B3-0851-46EC-B11C-673BA0774BDC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructorsPtTwo", "ConstructorsPtTwo\ConstructorsPtTwo.csproj", "{6C2DCFCC-5EE8-465F-9CC9-2F919CD95C51}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{43C6E4B3-0851-46EC-B11C-673BA0774BDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{43C6E4B3-0851-46EC-B11C-673BA0774BDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{43C6E4B3-0851-46EC-B11C-673BA0774BDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{43C6E4B3-0851-46EC-B11C-673BA0774BDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C2DCFCC-5EE8-465F-9CC9-2F919CD95C51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C2DCFCC-5EE8-465F-9CC9-2F919CD95C51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C2DCFCC-5EE8-465F-9CC9-2F919CD95C51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C2DCFCC-5EE8-465F-9CC9-2F919CD95C51}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

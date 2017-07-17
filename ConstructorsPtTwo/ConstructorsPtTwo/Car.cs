@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Constructors
+namespace ConstructorsPtTwo
 {
 	public class Car : Vehicle
 	{

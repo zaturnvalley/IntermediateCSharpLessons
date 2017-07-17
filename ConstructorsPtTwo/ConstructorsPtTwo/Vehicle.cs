@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace Constructors
+namespace ConstructorsPtTwo
 {
 	public class Vehicle
 	{
 		public Vehicle()
 		{
-			Console.WriteLine("Vehicle is being initialized");
+			Console.WriteLine("Vehicle is being initialized.");
 		}
 	}
 }
