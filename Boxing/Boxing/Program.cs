@@ -18,6 +18,13 @@ namespace Boxing
 
 			var number = (int)list[1];
 
+
+			//Examples of type safety with no boxing
+			var anotherList = new List<int>();
+			anotherList.Add(2);
+
+			var names = new List<string>();
+			names.Add("Bill");
 		}
 	}
 }
