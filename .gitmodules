@@ -1,5 +1,3 @@
-[submodule "Extensibility"]
-	ignore = untracked
 [submodule "Indexers"]
 	ignore = untracked
 [submodule "Testability"]
