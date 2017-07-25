@@ -1,0 +1,6 @@
+C:\Users\zach\Documents\Visual Studio 2017\IntermediateCSharpLessons\ConstructorsPtTwo\ConstructorsPtTwo\bin\Debug\ConstructorsPtTwo.exe.config
+C:\Users\zach\Documents\Visual Studio 2017\IntermediateCSharpLessons\ConstructorsPtTwo\ConstructorsPtTwo\bin\Debug\ConstructorsPtTwo.exe
+C:\Users\zach\Documents\Visual Studio 2017\IntermediateCSharpLessons\ConstructorsPtTwo\ConstructorsPtTwo\bin\Debug\ConstructorsPtTwo.pdb
+C:\Users\zach\Documents\Visual Studio 2017\IntermediateCSharpLessons\ConstructorsPtTwo\ConstructorsPtTwo\obj\Debug\ConstructorsPtTwo.csprojResolveAssemblyReference.cache
+C:\Users\zach\Documents\Visual Studio 2017\IntermediateCSharpLessons\ConstructorsPtTwo\ConstructorsPtTwo\obj\Debug\ConstructorsPtTwo.exe
+C:\Users\zach\Documents\Visual Studio 2017\IntermediateCSharpLessons\ConstructorsPtTwo\ConstructorsPtTwo\obj\Debug\ConstructorsPtTwo.pdb

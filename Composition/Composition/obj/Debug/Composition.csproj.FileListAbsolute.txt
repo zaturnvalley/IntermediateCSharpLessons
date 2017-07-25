@@ -1,0 +1,6 @@
+C:\Users\zach\Documents\Visual Studio 2017\IntermediateCSharpLessons\Composition\Composition\obj\Debug\Composition.csprojResolveAssemblyReference.cache
+C:\Users\zach\Documents\Visual Studio 2017\IntermediateCSharpLessons\Composition\Composition\bin\Debug\Composition.exe.config
+C:\Users\zach\Documents\Visual Studio 2017\IntermediateCSharpLessons\Composition\Composition\bin\Debug\Composition.exe
+C:\Users\zach\Documents\Visual Studio 2017\IntermediateCSharpLessons\Composition\Composition\bin\Debug\Composition.pdb
+C:\Users\zach\Documents\Visual Studio 2017\IntermediateCSharpLessons\Composition\Composition\obj\Debug\Composition.exe
+C:\Users\zach\Documents\Visual Studio 2017\IntermediateCSharpLessons\Composition\Composition\obj\Debug\Composition.pdb

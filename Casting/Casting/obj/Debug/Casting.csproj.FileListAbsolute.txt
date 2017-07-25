@@ -1,0 +1,6 @@
+C:\Users\zach\Documents\Visual Studio 2017\IntermediateCSharpLessons\Casting\Casting\bin\Debug\Casting.exe.config
+C:\Users\zach\Documents\Visual Studio 2017\IntermediateCSharpLessons\Casting\Casting\bin\Debug\Casting.exe
+C:\Users\zach\Documents\Visual Studio 2017\IntermediateCSharpLessons\Casting\Casting\bin\Debug\Casting.pdb
+C:\Users\zach\Documents\Visual Studio 2017\IntermediateCSharpLessons\Casting\Casting\obj\Debug\Casting.csprojResolveAssemblyReference.cache
+C:\Users\zach\Documents\Visual Studio 2017\IntermediateCSharpLessons\Casting\Casting\obj\Debug\Casting.exe
+C:\Users\zach\Documents\Visual Studio 2017\IntermediateCSharpLessons\Casting\Casting\obj\Debug\Casting.pdb

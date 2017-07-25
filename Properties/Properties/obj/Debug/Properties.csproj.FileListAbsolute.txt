@@ -1,0 +1,6 @@
+C:\Users\zach\Documents\Visual Studio 2017\IntermediateCSharpLessons\Properties\Properties\bin\Debug\Properties.exe.config
+C:\Users\zach\Documents\Visual Studio 2017\IntermediateCSharpLessons\Properties\Properties\bin\Debug\Properties.exe
+C:\Users\zach\Documents\Visual Studio 2017\IntermediateCSharpLessons\Properties\Properties\bin\Debug\Properties.pdb
+C:\Users\zach\Documents\Visual Studio 2017\IntermediateCSharpLessons\Properties\Properties\obj\Debug\Properties.exe
+C:\Users\zach\Documents\Visual Studio 2017\IntermediateCSharpLessons\Properties\Properties\obj\Debug\Properties.pdb
+C:\Users\zach\Documents\Visual Studio 2017\IntermediateCSharpLessons\Properties\Properties\obj\Debug\Properties.csprojResolveAssemblyReference.cache

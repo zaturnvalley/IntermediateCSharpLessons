@@ -1,0 +1,6 @@
+C:\Users\zach\Documents\Visual Studio 2017\IntermediateCSharpLessons\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.exe.config
+C:\Users\zach\Documents\Visual Studio 2017\IntermediateCSharpLessons\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.exe
+C:\Users\zach\Documents\Visual Studio 2017\IntermediateCSharpLessons\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.pdb
+C:\Users\zach\Documents\Visual Studio 2017\IntermediateCSharpLessons\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.csprojResolveAssemblyReference.cache
+C:\Users\zach\Documents\Visual Studio 2017\IntermediateCSharpLessons\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.exe
+C:\Users\zach\Documents\Visual Studio 2017\IntermediateCSharpLessons\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.pdb

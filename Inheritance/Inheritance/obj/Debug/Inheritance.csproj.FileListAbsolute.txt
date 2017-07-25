@@ -1,0 +1,6 @@
+C:\Users\zach\Documents\Visual Studio 2017\IntermediateCSharpLessons\Inheritance\Inheritance\obj\Debug\Inheritance.csprojResolveAssemblyReference.cache
+C:\Users\zach\Documents\Visual Studio 2017\IntermediateCSharpLessons\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\zach\Documents\Visual Studio 2017\IntermediateCSharpLessons\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\zach\Documents\Visual Studio 2017\IntermediateCSharpLessons\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\zach\Documents\Visual Studio 2017\IntermediateCSharpLessons\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\zach\Documents\Visual Studio 2017\IntermediateCSharpLessons\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
