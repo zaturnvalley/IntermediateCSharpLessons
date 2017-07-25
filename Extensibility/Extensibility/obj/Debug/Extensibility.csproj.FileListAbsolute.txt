@@ -1,0 +1,6 @@
+C:\Users\zach\Documents\Visual Studio 2017\IntermediateCSharpLessons\Extensibility\Extensibility\bin\Debug\Extensibility.exe.config
+C:\Users\zach\Documents\Visual Studio 2017\IntermediateCSharpLessons\Extensibility\Extensibility\bin\Debug\Extensibility.exe
+C:\Users\zach\Documents\Visual Studio 2017\IntermediateCSharpLessons\Extensibility\Extensibility\bin\Debug\Extensibility.pdb
+C:\Users\zach\Documents\Visual Studio 2017\IntermediateCSharpLessons\Extensibility\Extensibility\obj\Debug\Extensibility.csprojResolveAssemblyReference.cache
+C:\Users\zach\Documents\Visual Studio 2017\IntermediateCSharpLessons\Extensibility\Extensibility\obj\Debug\Extensibility.exe
+C:\Users\zach\Documents\Visual Studio 2017\IntermediateCSharpLessons\Extensibility\Extensibility\obj\Debug\Extensibility.pdb
