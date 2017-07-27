@@ -1,6 +1,6 @@
 ﻿namespace Polymorphism
 {
-	internal class Video : VideoEncoder
+	public class Video : VideoEncoder
 	{
 	}
 }

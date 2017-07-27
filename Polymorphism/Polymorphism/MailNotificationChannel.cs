@@ -9,3 +9,4 @@ namespace Polymorphism
 			Console.WriteLine("Sending mail...");
 		}
 	}
+}
