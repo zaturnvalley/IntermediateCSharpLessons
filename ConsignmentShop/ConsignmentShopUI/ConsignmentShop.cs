@@ -14,10 +14,16 @@ namespace ConsignmentShopUI
 	public partial class ConsignmentShop : Form
 	{
 		private Store store = new Store();
+		BindingSource itemsBinding = new BindingSource();
 
 		public ConsignmentShop()
 		{
 			InitializeComponent();
+			SetupData();
+
+			itemsBinding.DataSource = store.Items;
+			itemsListBox.DataSource = itemsBinding;
+
 		}
 
 		private void SetupData()
@@ -44,6 +50,31 @@ namespace ConsignmentShopUI
 				Price = 3.50M,
 				Owner = store.Vendors[1]
 			});
+
+			store.Items.Add(new Item
+			{
+				Title = "1Q84",
+				Description = @"A love story, a mystery, a fantasy, a novel of self-discovery, 
+					a dystopia to rival George Orwell’s—1Q84 is Haruki Murakami’s most ambitious 
+					undertaking yet: an instant best seller in his native Japan, and a tremendous 
+					feat of imagination from one of our most revered contemporary writers.",
+				Price = 5.50M,
+				Owner = store.Vendors[1]
+			});
+
+			store.Items.Add(new Item
+			{
+				Title = "Kafka on the Shore",
+				Description = @"Kafka on the Shore is powered by two remarkable characters: a teenage boy, 
+					Kafka Tamura, who runs away from home either to escape a gruesome oedipal prophecy or 
+					to search for his long-missing mother and sister; and an aging simpleton called Nakata, 
+					who never recovered from a wartime affliction and now is drawn toward Kafka for reasons 
+					that, like the most basic activities of daily life, he cannot fathom.",
+				Price = 4.10M,
+				Owner = store.Vendors[0]
+			});
+
+			store.Name = "Half Price Books";
 		}
 
 		private void label1_Click(object sender, EventArgs e)
