@@ -35,7 +35,6 @@
 			this.shoppingCartListBoxLabel = new System.Windows.Forms.Label();
 			this.shoppingCartListBox = new System.Windows.Forms.ListBox();
 			this.makePurchase = new System.Windows.Forms.Button();
-			this.removeFromCart = new System.Windows.Forms.Button();
 			this.SuspendLayout();
 			// 
 			// headerText
@@ -71,7 +70,7 @@
 			// 
 			// addToCart
 			// 
-			this.addToCart.Location = new System.Drawing.Point(346, 185);
+			this.addToCart.Location = new System.Drawing.Point(346, 216);
 			this.addToCart.Name = "addToCart";
 			this.addToCart.Size = new System.Drawing.Size(132, 45);
 			this.addToCart.TabIndex = 3;
@@ -108,22 +107,11 @@
 			this.makePurchase.UseVisualStyleBackColor = true;
 			this.makePurchase.Click += new System.EventHandler(this.makePurchase_Click);
 			// 
-			// removeFromCart
-			// 
-			this.removeFromCart.Location = new System.Drawing.Point(346, 236);
-			this.removeFromCart.Name = "removeFromCart";
-			this.removeFromCart.Size = new System.Drawing.Size(132, 45);
-			this.removeFromCart.TabIndex = 7;
-			this.removeFromCart.Text = "< Remove";
-			this.removeFromCart.UseVisualStyleBackColor = true;
-			this.removeFromCart.Click += new System.EventHandler(this.removeFromCart_Click);
-			// 
 			// ConsignmentShop
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
 			this.ClientSize = new System.Drawing.Size(824, 581);
-			this.Controls.Add(this.removeFromCart);
 			this.Controls.Add(this.makePurchase);
 			this.Controls.Add(this.shoppingCartListBoxLabel);
 			this.Controls.Add(this.shoppingCartListBox);
@@ -150,7 +138,6 @@
 		private System.Windows.Forms.Label shoppingCartListBoxLabel;
 		private System.Windows.Forms.ListBox shoppingCartListBox;
 		private System.Windows.Forms.Button makePurchase;
-		private System.Windows.Forms.Button removeFromCart;
 	}
 }
 
