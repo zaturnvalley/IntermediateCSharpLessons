@@ -23,7 +23,7 @@ namespace ConsignmentShopUI
 			InitializeComponent();
 			SetupData();
 
-			itemsBinding.DataSource = store.Items;
+			itemsBinding.DataSource = store.Items.Where(x => x.Sold == false);
 			itemsListBox.DataSource = itemsBinding;
 
 			itemsListBox.DisplayMember = "Display";
