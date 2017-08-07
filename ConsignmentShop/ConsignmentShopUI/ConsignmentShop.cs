@@ -106,5 +106,20 @@ namespace ConsignmentShopUI
 		{
 
 		}
+
+		private void addToCart_Click(object sender, EventArgs e)
+		{
+			// Figure out what is selected from the items list
+
+			Item selectedItem = (Item)itemsListBox.SelectedItem;
+
+			// Copy that item to the shopping cart
+
+			shoppingCartData.Add(selectedItem);
+			cartBinding.ResetBindings(false);
+
+			// Do we remove the item from the items list? - no
+
+		}
 	}
 }
