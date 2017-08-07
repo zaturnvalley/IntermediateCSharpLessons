@@ -121,5 +121,19 @@ namespace ConsignmentShopUI
 			// Do we remove the item from the items list? - no
 
 		}
+
+		private void makePurchase_Click(object sender, EventArgs e)
+		{
+			// Mark each item in the cart as sold
+
+			foreach (Item item in shoppingCartData)
+			{
+				item.Sold = true;
+			}
+
+			// Clear the cart
+			shoppingCartData.Clear();
+			cartBinding.ResetBindings(false);
+		}
 	}
 }
