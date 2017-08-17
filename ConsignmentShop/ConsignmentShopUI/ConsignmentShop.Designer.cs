@@ -35,6 +35,8 @@
 			this.shoppingCartListBoxLabel = new System.Windows.Forms.Label();
 			this.shoppingCartListBox = new System.Windows.Forms.ListBox();
 			this.makePurchase = new System.Windows.Forms.Button();
+			this.vendorListboxLabel = new System.Windows.Forms.Label();
+			this.vendorListBox = new System.Windows.Forms.ListBox();
 			this.SuspendLayout();
 			// 
 			// headerText
@@ -107,11 +109,32 @@
 			this.makePurchase.UseVisualStyleBackColor = true;
 			this.makePurchase.Click += new System.EventHandler(this.makePurchase_Click);
 			// 
+			// vendorListboxLabel
+			// 
+			this.vendorListboxLabel.AutoSize = true;
+			this.vendorListboxLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.vendorListboxLabel.Location = new System.Drawing.Point(14, 454);
+			this.vendorListboxLabel.Name = "vendorListboxLabel";
+			this.vendorListboxLabel.Size = new System.Drawing.Size(76, 20);
+			this.vendorListboxLabel.TabIndex = 8;
+			this.vendorListboxLabel.Text = "Vendors";
+			// 
+			// vendorListBox
+			// 
+			this.vendorListBox.FormattingEnabled = true;
+			this.vendorListBox.ItemHeight = 20;
+			this.vendorListBox.Location = new System.Drawing.Point(18, 477);
+			this.vendorListBox.Name = "vendorListBox";
+			this.vendorListBox.Size = new System.Drawing.Size(312, 264);
+			this.vendorListBox.TabIndex = 7;
+			// 
 			// ConsignmentShop
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-			this.ClientSize = new System.Drawing.Size(824, 581);
+			this.ClientSize = new System.Drawing.Size(824, 800);
+			this.Controls.Add(this.vendorListboxLabel);
+			this.Controls.Add(this.vendorListBox);
 			this.Controls.Add(this.makePurchase);
 			this.Controls.Add(this.shoppingCartListBoxLabel);
 			this.Controls.Add(this.shoppingCartListBox);
@@ -138,6 +161,8 @@
 		private System.Windows.Forms.Label shoppingCartListBoxLabel;
 		private System.Windows.Forms.ListBox shoppingCartListBox;
 		private System.Windows.Forms.Button makePurchase;
+		private System.Windows.Forms.Label vendorListboxLabel;
+		private System.Windows.Forms.ListBox vendorListBox;
 	}
 }
 
