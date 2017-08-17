@@ -18,6 +18,7 @@ namespace ConsignmentShopUI
 		BindingSource itemsBinding = new BindingSource();
 		BindingSource cartBinding = new BindingSource();
 		BindingSource vendorsBinding = new BindingSource();
+		private decimal storeProfit = 0;
 
 		public ConsignmentShop()
 		{
@@ -132,6 +133,7 @@ namespace ConsignmentShopUI
 			{
 				item.Sold = true;
 				item.Owner.PaymentDue += (decimal)item.Owner.Commission * item.Price;
+				storeProfit += (1 - (decimal)item.Owner.Commission) * item.Price;
 			}
 
 			// Clear the cart
@@ -143,5 +145,6 @@ namespace ConsignmentShopUI
 			itemsBinding.ResetBindings(false);
 			vendorsBinding.ResetBindings(false);
 		}
+
 	}
 }
