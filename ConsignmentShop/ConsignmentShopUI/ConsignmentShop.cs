@@ -141,6 +141,8 @@ namespace ConsignmentShopUI
 
 			itemsBinding.DataSource = store.Items.Where(x => x.Sold == false).ToList();
 
+			storeProfitValue.Text = string.Format("${0}", storeProfit);
+
 			cartBinding.ResetBindings(false);
 			itemsBinding.ResetBindings(false);
 			vendorsBinding.ResetBindings(false);
